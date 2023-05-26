@@ -1,0 +1,55 @@
+.img2 {
+    display: block;
+    margin: 0 auto;
+}
+   
+.bg-grey{
+    background-color: rgb(235, 235, 235);
+   /* width: 1500px;
+    height: 75px;*/
+    display: block;
+    /*margin: 0 auto;   */
+    
+}
+
+.box {
+    width: 150px;
+	height: 150px;
+	margin: 2px;
+}
+
+#birincikutu {
+    background-color: rgb(44, 255, 185) ;
+    float: left;
+    border-style:none;
+    text-align: center;
+    width: 300px;
+    height: 87px;
+    margin: 1px;
+    padding-top: 20px;
+}
+
+#ikincikutu{
+    background-color: rgb(3, 226, 159);
+    float: left;
+    text-decoration: underline;
+    text-align: center;
+    border-style: none;
+    width: 300px;
+    height: 87px;
+    margin: 1px;
+    padding-top: 20px;
+
+}
+
+#üçüncükutu{
+    background-color:rgb(0, 131, 131);
+    float: left;
+    text-decoration: underline;
+    text-align: center;
+    border-style: none;
+    width: 300px;
+    height: 107px;
+    margin: 1px;
+}
+
